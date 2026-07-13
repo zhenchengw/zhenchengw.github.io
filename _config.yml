@@ -26,25 +26,25 @@ author:
   avatar           : "profile.jpg"
   name             : "Zhencheng Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Theoretical Physics"
+  bio              : "Theoretical physicist interested in quantum gravity and quantum information"
   #location         : "Earth"
-  employer         : "University of Illinois Urbana-Champaign"
+  #employer         : "University of Illinois Urbana-Champaign"
   #uri              : # URL
   #email            : "zcwang1@illinois.edu" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  #academia         : # URL
+  #arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=62n1VLAAAAAJ&hl=en"
   inspire-hep      : "https://inspirehep.net/authors/1647691"
-  impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  ssrn             : # URL
+  #impactstory      : # URL
+  #orcid            : "https://orcid.org/yourorcidurl"
+  #semantic         : # URL
+  #ssrn             : # URL
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+  #researchgate     : # URL
+  #scopus           : # URL
+  #zotero           : # URL
 
 
   # Repositories and software development
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  #bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
