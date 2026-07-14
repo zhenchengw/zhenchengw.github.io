@@ -6,6 +6,7 @@ permalink: /publication/2024-10-01-algebras-and-hilbert-spaces-from-gravitationa
 date: 2024-10-01
 venue: "Journal of High Energy Physics 2024 (10), 1-71"
 excerpt: "Eugenia Colafranceschi, Xi Dong, Donald Marolf, Zhencheng Wang"
+link: "https://doi.org/10.1007/jhep10(2024)063"
 ---
 
 Authors: Eugenia Colafranceschi, Xi Dong, Donald Marolf, Zhencheng Wang

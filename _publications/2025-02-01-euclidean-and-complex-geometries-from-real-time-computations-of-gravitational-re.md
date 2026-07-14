@@ -6,6 +6,7 @@ permalink: /publication/2025-02-01-euclidean-and-complex-geometries-from-real-ti
 date: 2025-02-01
 venue: "Journal of High Energy Physics 2025 (2), 1-59"
 excerpt: "Jesse Held, Xiaoyi Liu, Donald Marolf, Zhencheng Wang"
+link: "https://doi.org/10.1007/jhep02(2025)136"
 ---
 
 Authors: Jesse Held, Xiaoyi Liu, Donald Marolf, Zhencheng Wang

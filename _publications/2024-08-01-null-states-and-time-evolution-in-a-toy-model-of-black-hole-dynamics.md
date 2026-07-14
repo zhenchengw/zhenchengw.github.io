@@ -6,6 +6,7 @@ permalink: /publication/2024-08-01-null-states-and-time-evolution-in-a-toy-model
 date: 2024-08-01
 venue: "Journal of High Energy Physics 2024 (8), 1-34"
 excerpt: "Xi Dong, Maciej Kolanowski, Xiaoyi Liu, Donald Marolf, Zhencheng Wang"
+link: "https://doi.org/10.1007/jhep08(2024)199"
 ---
 
 Authors: Xi Dong, Maciej Kolanowski, Xiaoyi Liu, Donald Marolf, Zhencheng Wang

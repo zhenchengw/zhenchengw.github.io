@@ -6,6 +6,7 @@ permalink: /publication/2022-07-01-gravitating-spinning-strings-in-ads3
 date: 2022-07-01
 venue: "Journal of High Energy Physics 2022 (7), 75"
 excerpt: "Henry Maxfield, Zhencheng Wang"
+link: "https://doi.org/10.1007/jhep07(2022)075"
 ---
 
 Authors: Henry Maxfield, Zhencheng Wang
