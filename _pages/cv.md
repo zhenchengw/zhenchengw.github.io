@@ -16,4 +16,5 @@ Education
 
 Work experience
 ======
-* Postdoctoral Research Associate, 2023 - now
+* Postdoctoral Research Associate, University of Colorado, Boulder, 2026 - now
+* Postdoctoral Research Associate, University of Illinois Urbana-Champaign, 2023 - 2026
