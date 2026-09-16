@@ -22,7 +22,7 @@ repository               : "zhenchengw/zhenchengw.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Zhencheng Wang"
   pronouns         : # example: "she/her"  
   bio              : "Theoretical physicist interested in quantum gravity and quantum information"
@@ -37,7 +37,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=62n1VLAAAAAJ&hl=en"
   inspire-hep      : "https://inspirehep.net/authors/1647691"
   #impactstory      : # URL
-  #orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-8404-4259"
   #semantic         : # URL
   #ssrn             : # URL
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -142,8 +142,8 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_image                 : "profile.jpg" # Social media default site image
+og_description           : "Academic homepage of Zhencheng Wang, a postdoctoral research associate at the University of Colorado Boulder working on quantum gravity and quantum information." # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:

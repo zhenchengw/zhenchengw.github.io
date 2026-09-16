@@ -7,6 +7,10 @@ date: 2025-02-01
 venue: "Journal of High Energy Physics 2025 (2), 1-59"
 excerpt: "Jesse Held, Xiaoyi Liu, Donald Marolf, Zhencheng Wang"
 link: "https://doi.org/10.1007/jhep02(2025)136"
+citation: Jesse Held, Xiaoyi Liu, Donald Marolf, Zhencheng Wang (2025). "Euclidean and complex geometries from real-time computations of gravitational Rényi entropies." <i>Journal of High Energy Physics 2025 (2), 1-59</i>.
+...
 ---
 
 Authors: Jesse Held, Xiaoyi Liu, Donald Marolf, Zhencheng Wang
+
+**Abstract.** Gravitational Renyi computations have traditionally been described in the language of Euclidean path integrals. In the semiclassical limit, such calculations are governed by Euclidean (or, more generally, complex) saddle-point geometries. We emphasize here that, at least in simple contexts, the Euclidean approach suggests an alternative formulation in terms of the bulk quantum wavefunction. Since this alternate formulation can be directly applied to the real-time quantum theory, it is insensitive to subtleties involved in defining the Euclidean path integral. In particular, it can be consistent with many different choices of integration contour. Despite the fact that self-adjoint operators in the associated real-time quantum theory have real eigenvalues, we note that the bulk wavefunction encodes the Euclidean (or complex) Renyi geometries that would arise in any Euclidean path integral. As a result, for any given quantum state, the appropriate real-time path integral yields both Renyi entropies and associated complex saddle-point geometries that agree with Euclidean methods. After brief explanations of these general points, we use JT gravity to illustrate the associated real-time computations in detail.
