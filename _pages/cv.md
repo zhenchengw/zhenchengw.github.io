@@ -25,12 +25,6 @@ Research interests
 * Holography, gravitational entropy, and von Neumann algebras
 * Quantum information in gravitational and topologically ordered systems
 
-Publications
-======
-<ul>{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
-
 <!--
 Sections below are ready to fill in whenever you want them. Delete the
 surrounding comment markers to make one visible.
