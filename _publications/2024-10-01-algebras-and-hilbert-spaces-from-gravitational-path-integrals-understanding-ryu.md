@@ -1,5 +1,5 @@
 ---
-title: "Algebras and Hilbert spaces from gravitational path integrals. Understanding Ryu-Takayanagi/HRT as entropy without AdS/CFT"
+title: "Algebras and Hilbert spaces from gravitational path integrals: Understanding Ryu-Takayanagi/HRT as entropy without AdS/CFT"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-10-01-algebras-and-hilbert-spaces-from-gravitational-path-integrals-understanding-ryu

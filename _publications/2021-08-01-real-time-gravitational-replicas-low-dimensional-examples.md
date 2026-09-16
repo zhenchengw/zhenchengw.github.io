@@ -1,5 +1,5 @@
 ---
-title: "Real-time gravitational replicas: low dimensional examples"
+title: "Real-time gravitational replicas: Low dimensional examples"
 collection: publications
 category: manuscripts
 permalink: /publication/2021-08-01-real-time-gravitational-replicas-low-dimensional-examples

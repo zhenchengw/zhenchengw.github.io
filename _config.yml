@@ -12,7 +12,7 @@ site_theme               : "sunrise" # The available themes options are "default
 title                    : "Zhencheng Wang"
 title_separator          : "-"
 name                     : &name "Zhencheng Wang"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Academic homepage of Zhencheng Wang, a theoretical physicist working on quantum gravity and quantum information."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://zhenchengw.github.io
 baseurl                  : ""
 repository               : "zhenchengw/zhenchengw.github.io"
@@ -26,10 +26,10 @@ author:
   name             : "Zhencheng Wang"
   pronouns         : # example: "she/her"  
   bio              : "Theoretical physicist interested in quantum gravity and quantum information"
-  location         : "Urbana, IL"
-  #employer         : "University of Illinois Urbana-Champaign"
+  location         : "Boulder, CO"
+  employer         : "University of Colorado Boulder"
   #uri              : # URL
-  #email            : "zcwang1@illinois.edu" 
+  email            : "zhencheng.wang@colorado.edu"
 
   # Academic websites
   #academia         : # URL

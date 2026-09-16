@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Hello! This is Zhencheng Wang's homepage. I'm currently a postdoctoral research associate at University of Illinois Urbana-Champaign. I'm interested in quantum gravity and quantum information theory. 
+Hello! This is Zhencheng Wang's homepage. I'm currently a postdoctoral research associate at the University of Colorado Boulder. I'm interested in quantum gravity and quantum information theory. 
